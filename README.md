@@ -2,7 +2,7 @@
 - 🌱 공부 중: Java, SQL, 알고리즘
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/data0gyus?pet-id=1" width="1000" height="300"/>
+  <img src="https://render.gitanimals.org/farms/data0gyus"/>
 </a>
 <!--
 **data0gyus/data0gyus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
